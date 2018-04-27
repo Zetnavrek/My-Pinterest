@@ -93,15 +93,16 @@ img {
 
 a {
   background:#72247A;
+  border-radius: 6px;
   display:inline-block;
   color: white;
+  margin: 1px;
   min-width:18%;
-  height: 2em;
+  height: 1.8em;
   text-align: center;
   text-decoration: none;
-  font-family: 'Roboto Slab', serif;
-  border-radius: 10px;
-  padding: 0 0.51em;
+  font-family: 'Playfair Display', serif;
+  padding: 0 0.60em;
   opacity:1;
 }
 
